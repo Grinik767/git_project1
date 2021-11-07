@@ -7,3 +7,4 @@ if __name__ == '__main__':
     print('Very good!')
     print('ok')
     print('good')
+    print('Hello, GitHub!')
